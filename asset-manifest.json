@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SocialStart/static/css/main.22809de4.css",
-    "main.js": "/SocialStart/static/js/main.0c6239f1.js",
+    "main.js": "/SocialStart/static/js/main.a0a61b94.js",
     "static/js/453.1f960028.chunk.js": "/SocialStart/static/js/453.1f960028.chunk.js",
     "static/css/559.782bcc20.chunk.css": "/SocialStart/static/css/559.782bcc20.chunk.css",
     "static/js/559.aae7dca5.chunk.js": "/SocialStart/static/js/559.aae7dca5.chunk.js",
@@ -12,7 +12,7 @@
     "static/media/cog11.svg": "/SocialStart/static/media/cog11.969e2e22c3d3784478f2234e3ce44fec.svg",
     "index.html": "/SocialStart/index.html",
     "main.22809de4.css.map": "/SocialStart/static/css/main.22809de4.css.map",
-    "main.0c6239f1.js.map": "/SocialStart/static/js/main.0c6239f1.js.map",
+    "main.a0a61b94.js.map": "/SocialStart/static/js/main.a0a61b94.js.map",
     "453.1f960028.chunk.js.map": "/SocialStart/static/js/453.1f960028.chunk.js.map",
     "559.782bcc20.chunk.css.map": "/SocialStart/static/css/559.782bcc20.chunk.css.map",
     "559.aae7dca5.chunk.js.map": "/SocialStart/static/js/559.aae7dca5.chunk.js.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.22809de4.css",
-    "static/js/main.0c6239f1.js"
+    "static/js/main.a0a61b94.js"
   ]
 }
