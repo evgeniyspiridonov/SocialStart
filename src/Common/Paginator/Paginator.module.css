@@ -1,0 +1,18 @@
+.paginator {
+    margin: 10px;
+}
+
+.pageNumber {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.pageNumber.selectedPage {
+    background-color: #432918;
+    color: white;
+    border-color: #7a4421;
+}
